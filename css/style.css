@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* HEADER */
+
+
+.bg-color-blu{
+    height: 70px;
+    background-color: rgb(29, 29, 135);
+    text-align: center;
+}
+
+.border-black{
+    border: 2px solid black;
+    color: white;
+}
