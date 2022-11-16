@@ -17,3 +17,13 @@
     border: 2px solid black;
     background-color: yellow;
 }
+
+/* MAIN */
+
+/* prima sezione */
+
+.bg-color-green{
+    height: 300px;
+    background-color: lightgreen;
+    text-align: center;
+}
