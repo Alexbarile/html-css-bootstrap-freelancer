@@ -17,11 +17,22 @@
     background-color: yellow;
 }
 
+.padding{
+    padding: 15px;
+}
+
 /* MAIN */
 
 /* prima sezione */
 
 .bg-color-green{
-    height: 300px;
+    height: 200px;
     background-color: lightgreen;
+}
+
+/* seconda sezione */
+
+.bg-color-white{
+    height: 200px;
+    background-color: white;
 }
