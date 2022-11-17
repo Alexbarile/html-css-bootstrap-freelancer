@@ -48,13 +48,14 @@ header{
     font-size: 15px;
 }
 
-.line-star{
+.content .line-star{
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
 }
 
-.hr{
+.content .hr{
     border: 3px solid white;
     width: 115px;
     border-radius: 20px;
@@ -75,9 +76,33 @@ header{
 
 /* seconda sezione */
 
-.bg-color-white{
-    height: 300px;
-    background-color: white;
+.content-white{
+    width: 100%;
+}
+
+.content-white h1{
+    color: black;
+    font-size: 39px;
+    font-weight: 700;
+}
+
+.content-white .line-star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.content-white .hr{
+    border: 3px solid black;
+    width: 115px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.content-card img{
+    width: 100%;
+    border-radius: 10px;
 }
 
 /* secondo footer */
