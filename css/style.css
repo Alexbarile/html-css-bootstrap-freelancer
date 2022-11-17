@@ -20,23 +20,57 @@ header{
     font-weight: 700;
 }
 
-.bg-white{
-    background-color: white;
-}
-
-
-.padding{
-    padding: 15px;
-}
-
 
 /* MAIN */
 
 /* prima sezione */
 
 .bg-color-green{
-    height: 200px;
     background-color: lightgreen;
+}
+
+.content{
+    width: 100%;
+}
+
+.content img{
+    width: 60%;
+}
+
+.content h1{
+    color: white;
+    font-size: 39px;
+    font-weight: 700;
+}
+
+.content h3{
+    color: white;
+    font-size: 15px;
+}
+
+.line-star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hr{
+    border: 3px solid white;
+    width: 115px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.three-word{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 10px;
+}
+
+.three-word h3, .three-word i{
+    padding: 5px;
 }
 
 /* seconda sezione */
