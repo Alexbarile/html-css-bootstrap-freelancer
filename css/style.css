@@ -4,8 +4,27 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
 /* HEADER */
 
+/* header{
+    height: 70px;
+    background-color: purple;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+} */
+
+/* header .content{
+    width: 100%;
+    height: 70px;
+    background-color: yellow;
+
+} */
 
 .bg-color-blu{
     height: 70px;
@@ -20,6 +39,7 @@
 .padding{
     padding: 15px;
 }
+
 
 /* MAIN */
 
