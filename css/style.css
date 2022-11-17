@@ -24,6 +24,10 @@
 
 } */
 
+.back-red{
+    background-color: red;
+}
+
 .bg-color-blu{
     background-color: rgb(43, 43, 97);
 }
