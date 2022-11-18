@@ -105,10 +105,21 @@ header{
     border-radius: 10px;
 }
 
+/* quarta sezione */
+
+.container-form{
+    width: 60%;
+}
+
+/* primo footer */
+
+.content h4{
+    font-weight: 700;
+}
+
 /* secondo footer */
 
 .bg-color-black{
-    height: 100px;
     background-color: rgb(58, 49, 49);
 }
 
