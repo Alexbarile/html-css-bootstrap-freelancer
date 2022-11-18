@@ -21,6 +21,7 @@ header{
 
 .fa-bars{
     color: white;
+    font-size: 25px;
 }
 
 /* MAIN */
@@ -134,4 +135,3 @@ header{
 .bg-color-black{
     background-color: rgb(58, 49, 49);
 }
-
